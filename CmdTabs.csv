@@ -1,0 +1,16 @@
+﻿   Number,CmdName,CmdType,DestType,RegAddress,RegValue,Description
+1,Name1,W,L,0X015C,0X0007D041,blabla
+2,Name2,R,L,0X015C,,blabla
+3,Name3,R,L,0x0160,,blabla
+4,Name4,W,L,0x015C,0X0007D041,blabla
+_,CMD_all,,,,,
+1,Name1,W,L,0X015C,0X0007D041,blabla
+2,Name2,R,L,0X015C,,blabla
+3,Name3,R,L,0x0160,,blabla
+4,Name4,W,L,0x015C,0X0007D041,blabla
+_,CMD_set1,,,,,
+1,Name1,W,L,0X015C,0X0007D041,blabla
+2,Name2,R,L,0X015C,,blabla
+3,Name3,R,L,0x0160,,blabla
+4,Name4,W,L,0x015C,0X0007D041,blabla
+_,CMD_set2,,,,,
